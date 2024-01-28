@@ -27,7 +27,7 @@ public class PrintableTreeTest {
         assertEquals(
                 prettyPrint,
                 tree.prettyPrint(),
-                () -> testCaseName + " test case has failed.");
+                () -> testCaseName + " test case has failed. ");
 
     }
 
